@@ -1,7 +1,7 @@
 namespace teach_01;
 
 public static class ArraySelector
-{
+{ 
     public static void Run()
     {
         var l1 = new[] { 1, 2, 3, 4, 5 };
